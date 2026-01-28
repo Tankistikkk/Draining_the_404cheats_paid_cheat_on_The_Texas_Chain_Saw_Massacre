@@ -14,6 +14,9 @@ Copying, modification or commercial use of this code is strictly prohibited with
 
 Unauthorized use of this software may result in legal consequences.
 
+
+
+
 # RU Слив платного чита 404 на Тhe Texas Chain Saw Massacre
 Вот слив платного чита на игру The Texas Chain Saw Massacre. Чит делала компания 404cheats под руководством Nirvana (Soi — Глеб). Он помогал создавать этот чит и делать обход на эту игру, но после был реверснут мной и слит вам для разных целей. В добавок владелец самого чита пытался мне угрожать, что вдвойне призывает меня, как добросовестного человека, слить вам его для изучения и прочих нужд.
 
